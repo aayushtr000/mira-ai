@@ -14,11 +14,8 @@
     },
     "production": {
       "android": {
-        "buildType": "appbundle"
+        "buildType": "app-bundle"
       }
     }
-  },
-  "submit": {
-    "production": {}
   }
 }
