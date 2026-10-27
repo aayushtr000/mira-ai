@@ -3,6 +3,7 @@
     "name": "Mira AI",
     "slug": "aayush-tripathi",
     "version": "1.0.0",
+    "owner": "aayushtr00s-team",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "dark",
@@ -21,6 +22,11 @@
         "backgroundColor": "#ffffff"
       },
       "package": "com.aayush.miraai"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ee4e4f5b-26e6-483b-a8a9-b157bb933ab1"
+      }
     }
   }
 }
