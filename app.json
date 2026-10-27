@@ -3,6 +3,7 @@
     "name": "Mira AI",
     "slug": "mira-ai",
     "version": "1.0.0",
+    "owner": "aayushtr00s-team",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "dark",
