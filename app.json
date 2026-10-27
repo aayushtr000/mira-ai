@@ -23,6 +23,11 @@
       },
       "package": "com.aayush.miraai"
     },
+    "extra": {
+      "eas": {
+        "projectId": "ee4e4f5b-26e6-483b-a8a9-b157bb933ab1"
+      }
+    },
     "cli": {
       "appVersionSource": "remote"
     }
